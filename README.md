@@ -10,7 +10,7 @@ The program takes as input a NASDAQ ITCH 5.0 tick data file. The file is expecte
 
 ### Outputs
 
-I HAVE ALSO INCLUDED 'vwap.txt' IN THE SUBMISSION WITH PARSED DATA OF FIRST 3 hours  FOR REFERENCE.
+I HAVE ALSO INCLUDED 'vwap.txt' WITH PARSED DATA OF FIRST 3 hours  FOR REFERENCE.
 
 After each hour - VWAP for each stock will be printed in the terminal, and will also be stored in a file
 "vwap.txt"  with the following format:
